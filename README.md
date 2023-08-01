@@ -1,5 +1,5 @@
 <h1 align ="center"> Seja Bem-Vindo ao meu repositório</h1>
-<p>Olá meu nome é Luiz Fernando sou Programador JR, tenho 22 anos e atualmente moro em São Paulo.</p>
+<p>Olá meu nome é Luiz Fernando sou Programador FullStack, tenho 24 anos e atualmente moro em Maringá.</p>
 <span>Aqui você encontrar todos os meu projetos publicos já criados e também testes realizados.</span>
 
 <h1 align ="center"> Stacks Front</h1>
